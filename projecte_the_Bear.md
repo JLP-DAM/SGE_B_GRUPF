@@ -14,4 +14,5 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-El mòdul d'empleats en Odoo és una eina integral dissenyada per a gestionar tota la informació relacionada amb empleats. Des de la contractació fins a la jubilació, aquest mòdul cobreix totes les etapes del cicle de vida laboral d'un empleat.
+# Explicació
+-El mòdul d'empleats en Odoo és una eina integral dissenyada per a gestionar tota la informació relacionada amb empleats. Des de la contractació fins a la jubilació, aquest mòdul cobreix totes les etapes del cicle de vida laboral d'un empleat.
