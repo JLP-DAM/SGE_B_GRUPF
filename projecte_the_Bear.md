@@ -12,3 +12,4 @@
 - Jan Lazaro Pardo (Vendes, Punts de Venda, Calendari)
 - Jose Contreras Torralbo (Empleats, Events, Planificació)
 
+aaaaaaaaaaaaaaaaaaaaaaaaaa
