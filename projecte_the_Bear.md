@@ -14,4 +14,4 @@
 
 # Mòduls
 - Compres
-  Aquest mòdul tracta sobre
+Aquest mòdul tracta sobre
