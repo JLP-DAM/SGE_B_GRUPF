@@ -45,3 +45,18 @@ Al crear un nou objecte ens demanarán els seus atributs (preu, cost, nom...) (t
 ![image](https://github.com/user-attachments/assets/cb964946-1dbd-4430-a5df-21184bbd7603)
 
 ![image](https://github.com/user-attachments/assets/c6f15108-8bee-4deb-9c47-efaad6a3307e)
+
+També hi han altres apartats on podem visualitzar les comandes i els seus atributs (on s'han vengut, data, preu total...).
+
+![image](https://github.com/user-attachments/assets/c6b6f78f-363c-4084-89aa-87d252195443)
+
+# Calendari
+El calendari funciona com un calendari normal, on podem veure els dies del més i si tenen events relacionats amb ells.
+
+![image](https://github.com/user-attachments/assets/951dd14e-a1ed-47e9-a45c-f841be2ce95f)
+
+Per crear un event hi ha 2 opcions (que porten al mateix resultat), el botó de "Nou" o clicant una hora d'un dia. (podem assignar participants, dir si es un event de tot el dia... Hi han trucades d'odoo i tot!)
+
+![image](https://github.com/user-attachments/assets/09b52807-3a52-47ac-85f2-8b87dc68822d)
+
+![image](https://github.com/user-attachments/assets/72ad12e9-3d05-4410-bbbd-17b2e6c13fea)
