@@ -69,3 +69,10 @@ llocs de treball que requereixla teva empresa a més el tipus de empleats (Perma
 
 ![image](https://github.com/user-attachments/assets/922afe94-78ff-459a-8f65-8c3c0fe56dce)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Explicació
+- El mòdul de Planificació en Odoo és una eina útil per a gestionar de manera eficient els horaris de treball del teu equip i optimitzar la distribució de recursos.
+
+# Treball
+
