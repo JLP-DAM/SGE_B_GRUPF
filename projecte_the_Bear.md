@@ -34,3 +34,13 @@ I cada creació per cada apartat apareix en aquesta llista, on podem consultar l
 
 
 (Aquest procés realisticament s'aplica a tots els apartats però canvien alguns parametres)
+
+# Punts de Venda
+Els punts de venda són bastant més simples, el seu element principal són els productes els cuals són llistats al entrar al modúl
+
+![image](https://github.com/user-attachments/assets/361cd06b-abd8-419e-89ba-e4cedf44822b)
+
+Al crear un nou objecte ens demanarán els seus atributs (preu, cost, nom...) (també podem actualitzar en quins punts de venda es troben, el seu inventari i altres coses)
+
+![image](https://github.com/user-attachments/assets/cb964946-1dbd-4430-a5df-21184bbd7603)
+
