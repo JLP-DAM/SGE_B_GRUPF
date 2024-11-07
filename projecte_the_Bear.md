@@ -62,8 +62,10 @@ llocs de treball que requereixla teva empresa a més el tipus de empleats (Perma
 ![image](https://github.com/user-attachments/assets/99849d57-d2ae-44ea-8436-70120e9490df)
 
 - En aquest apartat també n'hi ha informes pero es una mica difernt ja que aqui hi es veuen els asistents i els ingresos, com cap persona ha participat en el event no hi ha res.
+
 ![image](https://github.com/user-attachments/assets/fbdb40ee-7fa6-4c54-b937-911d805d1dd8)
 
 - Després com a configuració extra tens plantilles per l'event (Jo no he usat, he creat un event desde 0), etapes del event per posar quan comença, quan acaba, si esta en procés i per últim etiquetes que no he usat ja que solament tinc un event pero en cas de tindre varios estaria bé etiquetar-los.
+
 ![image](https://github.com/user-attachments/assets/922afe94-78ff-459a-8f65-8c3c0fe56dce)
 
