@@ -14,7 +14,11 @@
 
 # Ventes
 La secció de vendes permet portar totes les vendes de l'empresa i tots els valors interns (pressupostos, comandes, equips, clients, factures, productes...)
+
 Per guardar qualsevol dels valors anteriors, simplement necessitem navegar a través de la barra de navegació (i els subapartats)
 ![image](https://github.com/user-attachments/assets/10bc48e8-28b8-4bbb-8de2-5a467ac3bf31)
 
 ![image](https://github.com/user-attachments/assets/f383f8cd-b803-45c4-86d1-263ab3a19684)
+
+I cliquem "Nou" (o "Pujar" si ja tenim les dades en un altre format)
+![image](https://github.com/user-attachments/assets/8851c4c8-a63f-43e1-a4fe-082539b53b89)
