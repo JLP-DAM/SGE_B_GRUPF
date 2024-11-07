@@ -40,7 +40,8 @@ Els punts de venda són bastant més simples, el seu element principal són els 
 
 ![image](https://github.com/user-attachments/assets/361cd06b-abd8-419e-89ba-e4cedf44822b)
 
-Al crear un nou objecte ens demanarán els seus atributs (preu, cost, nom...) (també podem actualitzar en quins punts de venda es troben, el seu inventari i altres coses)
+Al crear un nou objecte ens demanarán els seus atributs (preu, cost, nom...) (també podem actualitzar en quins punts de venda es troben, el seu inventari i altres coses) (també podem imprimir etiquetes i enviar un missatge perque es reposi el producte)
 
 ![image](https://github.com/user-attachments/assets/cb964946-1dbd-4430-a5df-21184bbd7603)
 
+![image](https://github.com/user-attachments/assets/c6f15108-8bee-4deb-9c47-efaad6a3307e)
