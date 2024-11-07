@@ -1,3 +1,4 @@
+
 # SGE_B_GRUPF
 
 # Introducció
@@ -52,5 +53,17 @@ llocs de treball que requereixla teva empresa a més el tipus de empleats (Perma
 
 # Treball
 
+- Aquesta es la pagina principar per afegir events, crear-los o quitar-los.
+![image](https://github.com/user-attachments/assets/7494a7e1-a064-4332-bf0d-6ad294f01b3c)
 
+- Quan creas un events pots configurar, qui ho a creat, per quin public va dirigit, el lloc, la hora, el creador del event, la gent que pot anar i el preu venda de aquest. (Jo de exemple he fet el bateig del Juanjo)
+
+![image](https://github.com/user-attachments/assets/81c06fec-121d-4612-a912-e1d0de0ebf6c)
+![image](https://github.com/user-attachments/assets/99849d57-d2ae-44ea-8436-70120e9490df)
+
+- En aquest apartat també n'hi ha informes pero es una mica difernt ja que aqui hi es veuen els asistents i els ingresos, com cap persona ha participat en el event no hi ha res.
+![image](https://github.com/user-attachments/assets/fbdb40ee-7fa6-4c54-b937-911d805d1dd8)
+
+- Després com a configuració extra tens plantilles per l'event (Jo no he usat, he creat un event desde 0), etapes del event per posar quan comença, quan acaba, si esta en procés i per últim etiquetes que no he usat ja que solament tinc un event pero en cas de tindre varios estaria bé etiquetar-los.
+![image](https://github.com/user-attachments/assets/922afe94-78ff-459a-8f65-8c3c0fe56dce)
 
