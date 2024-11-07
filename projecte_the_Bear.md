@@ -23,3 +23,11 @@ Per guardar qualsevol dels valors anteriors, simplement necessitem navegar a tra
 I cliquem "Nou" (o "Pujar" si ja tenim les dades en un altre format)
 
 ![image](https://github.com/user-attachments/assets/8851c4c8-a63f-43e1-a4fe-082539b53b89)
+
+Podem emplenar totes les dades (client, productes...)
+
+![image](https://github.com/user-attachments/assets/c357b1cf-e6b8-4b4a-a084-141865f2dc23)
+
+
+
+(Aquest procés realisticament s'aplica a tots els apartats però canvien alguns parametres)
