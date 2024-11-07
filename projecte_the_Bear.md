@@ -83,13 +83,16 @@ llocs de treball que requereixla teva empresa a més el tipus de empleats (Perma
 ![image](https://github.com/user-attachments/assets/6ffa1313-c8c5-4455-865f-5e5ba7f6bca9)
 
 - També tens el apartat de horari en el qual pot veure la planificació i pots filtrar-la de diferents formes.
+  
 ![image](https://github.com/user-attachments/assets/04341182-a995-4484-871a-c55d0e185f7a)
 
 - Tens també la teva propia planificació la qual pot usar com agenda.
 ![image](https://github.com/user-attachments/assets/5134dc89-505a-4c2a-8f8f-0ed274a90e52)
 
-- En aquest apartat també tens informes pero en aquest cas es un analisi de la planificació. 
+- En aquest apartat també tens informes pero en aquest cas es un analisi de la planificació.
+  
 ![image](https://github.com/user-attachments/assets/462ba765-ea7d-42a4-b3b8-399e6c3847e8)
 
 - Per últim tens unes configuracions extres amb les quals pots ajustar la planificacó dels empleats, ajustar els materials per un plan, afegir roles perque pugin configurar o no la planificació i per últim plantilles per torns.
+  
 ![image](https://github.com/user-attachments/assets/de8e21c4-299f-460f-b19c-df54e88cb0e3)
