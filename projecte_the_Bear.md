@@ -42,5 +42,6 @@
 
 - Per últim tens unes configuracións extres que et poden ajudar a configurar els horaris, llocs dels empleats i més, les activitats i els 
 llocs de treball que requereixla teva empresa a més el tipus de empleats (Permanents, temporals, etc).
+
 ![image](https://github.com/user-attachments/assets/a0474bda-6a8e-4dbb-8289-7893274030ef)
 
