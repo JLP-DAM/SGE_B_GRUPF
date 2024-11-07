@@ -45,3 +45,12 @@ llocs de treball que requereixla teva empresa a més el tipus de empleats (Perma
 
 ![image](https://github.com/user-attachments/assets/a0474bda-6a8e-4dbb-8289-7893274030ef)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Explicació
+- El mòdul d'esdeveniments en *Odoo és una eina molt útil per a organitzar i gestionar tot tipus d'esdeveniments, tant presencials com en línia. Des de petites reunions fins a grans conferències.
+
+# Treball
+
+
+
