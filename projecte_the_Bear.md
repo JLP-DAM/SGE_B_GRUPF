@@ -28,6 +28,9 @@ Podem emplenar totes les dades (client, productes...)
 
 ![image](https://github.com/user-attachments/assets/c357b1cf-e6b8-4b4a-a084-141865f2dc23)
 
+I cada creació per cada apartat apareix en aquesta llista, on podem consultar les seves dades més importants
+
+![image](https://github.com/user-attachments/assets/8afd0725-0d7c-48ee-aaf1-1a6f3bdf5e06)
 
 
 (Aquest procés realisticament s'aplica a tots els apartats però canvien alguns parametres)
