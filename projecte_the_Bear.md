@@ -76,3 +76,5 @@ llocs de treball que requereixla teva empresa a més el tipus de empleats (Perma
 
 # Treball
 
+- La pagina principal dels events pots crear, veure o editar events (si tens els permisos).
+![image](https://github.com/user-attachments/assets/cf5413ac-6e5a-4aec-a650-1722463c3869)
